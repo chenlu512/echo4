@@ -1,2 +1,2 @@
 # echo4
-just a repository
+hey guys, first day report!
